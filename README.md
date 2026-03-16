@@ -1,5 +1,5 @@
 # interface-jornada-de-usuario.
-Atividades da disciplina de Interface e Jornada do Usuário. Aqui estudamos algo essencial no mundo digital: como as pessoas se conectam com sistemas, aplicativos e sites.
+Atividades da disciplina de Interface e Jornada do Usuário. Aqui estudamos algo essencial no mundo digital: como as pessoas se conectam com sistemas, aplicativos e sites!
 Mais do que telas bonitas, o foco é criar experiências simples, úteis e agradáveis para o usuário.
 
 ## Atividades
